@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreejalearn
-- 👀 I’m interested in Python, HTML, CSS, JS, & Ethical Hacking
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in Python, HTML, CSS, JS, SQL, React-Native, & Ethical Hacking
+- 🌱 I’m currently learning HTML, CSS, and JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
