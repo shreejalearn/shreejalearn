@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shreejalearn
-- 👀 I’m interested in Python, HTML, CSS, JS, SQL, React-Native, & Ethical Hacking
-- 🌱 I’m currently learning Machine Learning models using Jupyter Notebook in Python
+- 👀 I’m interested in Quantum Computing, AI, DevOps, and Cybersecurity!
+- 🌱 I’m currently learning DevOps and more about AI, ML.
 - 💞️ I’m looking to collaborate on any interesting project!
-- 📫 How to reach me: Gmail: shreeja.das.16@gmail.com
+- 📫 How to reach me: shreeja.das.16@gmail.com
 
 <!---
 shreejalearn/shreejalearn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
